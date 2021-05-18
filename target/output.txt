@@ -1,0 +1,2 @@
+users, ID, INT
+accounts, account, VARCHAR(32)
